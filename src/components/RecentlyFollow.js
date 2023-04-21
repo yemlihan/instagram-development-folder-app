@@ -60,7 +60,9 @@ export default function RecentlyFollow() {
           aria-labelledby="accordion-collapse-heading-6"
         >
           <div className="border max-h-96 overflow-y-scroll overflow-hidden mb-5">
-            <ul className="mt-5">{users}</ul>
+            <ul className="mt-5">
+            {users.length === 0 && <h1>not users</h1>}
+              {users}</ul>
           </div>
         </div>
       </div>

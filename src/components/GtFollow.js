@@ -61,6 +61,7 @@ export default function GtFollow() {
         >
           <div className="border max-h-96 overflow-y-scroll overflow-hidden mb-5">
             <ul className="mt-5">
+            {users.length === 0 && <h1>not users</h1>}
               {users}
             </ul>
           </div>

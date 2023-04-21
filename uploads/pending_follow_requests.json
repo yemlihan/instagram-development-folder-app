@@ -1,0 +1,43 @@
+{
+  "relationships_follow_requests_sent": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/berat.d121",
+          "value": "berat.d121",
+          "timestamp": 1681941229
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/kadriye_mizrak",
+          "value": "kadriye_mizrak",
+          "timestamp": 1681941212
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/ebru__ey",
+          "value": "ebru__ey",
+          "timestamp": 1681941202
+        }
+      ]
+    }
+  ]
+}
